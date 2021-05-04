@@ -17,12 +17,14 @@ body{
 }
 .wrapper h4{
     font-size: 1.3rem;
+    color: #000044;
 
 }
 .input-group{
     color:#000044;
     padding: 0.1em;
     border: none;
-    
+    /* display: inline-block; */
+
 }
 
